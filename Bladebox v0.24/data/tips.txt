@@ -1,0 +1,57 @@
+1.
+Use headphones for the best music experience!
+
+
+2.
+If you're making a level surrounded by walls, use the fake wall decoration
+to fill the empty area behind them. Your level will have better performance. 
+
+3.
+Water and teleports are the biggest frame droppers, so don't use them too much.
+
+
+4.
+Pressing two buttons at once will close the door. However, pressing three buttons will open it again.
+
+
+5.
+Acid dissolves the boxes, but lets the player pass through.
+Lava burns the player, but lets the boxes pass through.
+
+6.
+The player can be masked with the "no sprite" block in the special blocks section.
+
+
+7.
+Selecting a block will automatically pick its properties.
+
+
+8.
+You can enter the exit only if you're touching the ground.
+
+
+9.
+Bladebox is playable with an Xbox controller.
+
+
+10.
+Bigger boxes are heavier and fall faster.
+
+
+11.
+You can push or jump with only one box at once.
+
+
+12.
+For some reason, pressing a trigger and a joystick button at once either restarts the game,
+goes to main menu or crashes the game. Combining those buttons in options isn't recommended.
+
+13.
+Levers are switched everytime the player passes through them.
+They also combine with buttons.
+
+14.
+You can't insert forbidden characters and give your level a name that is already taken.
+
+
+15.
