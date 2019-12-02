@@ -59,11 +59,7 @@ Use middle mouse button to rotate decorations by 90 degrees.
 
 
 16.
-<<<<<<< HEAD:data/tips.txt
 Spawners turn off if they're occupied by boxes.
-=======
-Armed mines explode if the player is less than 5 blocks away.
->>>>>>> b678498d1e2900713323b59269c25c6785f0759c:data/tips.txt
 
 
 17.
@@ -89,12 +85,9 @@ These will turn on if the ID is off and turn off if the ID is on.
 22.
 Press Escape (binded by default) to exit the editor.
 
-<<<<<<< HEAD:data/tips.txt
 
 23.
 Pushing a box against a long slope is hard and a waste of time.
 
 
 24.
-=======
->>>>>>> b678498d1e2900713323b59269c25c6785f0759c:data/tips.txt
