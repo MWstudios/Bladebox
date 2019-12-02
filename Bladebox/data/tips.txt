@@ -1,0 +1,93 @@
+1.
+Use headphones for the best music experience!
+
+
+2.
+If you're making a level surrounded by walls, use the fake wall decoration
+to fill the empty area behind them. Your level will have better performance. 
+
+3.
+Water and teleports are the biggest frame droppers, so don't use them too much.
+
+
+4.
+Pressing two buttons at once will close the door. However, pressing three buttons will open it again.
+
+
+5.
+Acid dissolves the boxes, but lets the player pass through.
+Lava burns the player, but lets the boxes pass through.
+
+6.
+The player can be masked with the "no sprite" block in the special blocks section.
+
+
+7.
+Selecting a block will automatically pick its properties.
+
+
+8.
+You can enter the exit only if you're touching the ground.
+
+
+9.
+Bladebox is playable with an Xbox controller.
+
+
+10.
+Bigger boxes are heavier and fall faster.
+
+
+11.
+You can push or jump with only one box at once.
+
+
+12.
+Don't press a trigger and a joystick button at once.
+
+
+13.
+Levers are switched everytime the player passes through them.
+They also combine with buttons.
+
+14.
+You can't insert forbidden characters and give your level a name that is already taken.
+
+
+15.
+Use middle mouse button to rotate decorations by 90 degrees.
+
+
+16.
+Spawners turn off if they're occupied by boxes.
+
+
+17.
+The closer you are to armed mines, the faster they beep.
+
+
+18.
+Disarm mines by turning the power source off.
+
+
+19.
+You can change both keyboard and joystick inputs in options.
+
+
+20.
+Teleport warps the player and the boxes to another teleport with a specific ID.
+
+
+21.
+Ticking the "not" option in editor will invert the logic blocks behavior.
+These will turn on if the ID is off and turn off if the ID is on.
+
+22.
+Press Escape (binded by default) to exit the editor.
+
+
+23.
+Pushing a box against a long slope is hard and a waste of time.
+
+
+24.
