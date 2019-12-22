@@ -91,3 +91,15 @@ Pushing a box against a long slope is hard and a waste of time.
 
 
 24.
+Teleports don't work unless switched on.
+
+
+25.
+When you tick "Show switch IDs", a small number will appear next to every logic block
+and show you the block's ID.
+
+26.
+Delayers are watching their ID's state. If the state changes, they wait for a while
+and copy it to another ID.
+
+27.
